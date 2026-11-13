@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: unq-cloner
+    name: b2r-cloner
     runtime: node
     plan: free
     region: oregon
